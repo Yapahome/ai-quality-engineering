@@ -102,3 +102,6 @@ test accuracy = 0.81
 Это сигнал переобучения (overfitting).
 
 Метрики в AI работают как вероятностные assertions.
+
+<img width="1004" height="815" alt="image" src="https://github.com/user-attachments/assets/d43fda28-8a8a-4f6c-9b96-0ed3a6271a78" />
+
